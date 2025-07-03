@@ -26,12 +26,12 @@ Welcome to my GitHub profile! I'm someone who loves crafting digital experiences
 ---
 
 ### 💼 Portfolio
-🔗 [https://www.figma.com/proto/gkij0TFcrwW0AkbpSt0YPT/jeeva-portfolio?node-id=7-2&starting-point-node-id=7%3A2]
+🔗**My Portfolio**: [https://www.figma.com/proto/gkij0TFcrwW0AkbpSt0YPT/jeeva-portfolio?node-id=7-2&starting-point-node-id=7%3A2]
 
 ---
 
 ### 🔗 Let's Connect
-- 📌 [https://www.linkedin.com/in/jeevarekha-k-54524a298/]
+- 📌**Linkedin**: [https://www.linkedin.com/in/jeevarekha-k-54524a298/]
 - ✉️ **Email**: jeevarekhak5@gmail.com *
 
 💬 I’m always open to collaboration and exciting new projects!
